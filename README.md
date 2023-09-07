@@ -11,6 +11,10 @@ Created a dynamic virtual homelab environment, mirroring enterprise networks. Em
 - <b>Command Prompt</b>
 - <b>VMware Workstation Pro 17</b>
 - <b>PowerShell</b>
+- <b>Pfsense</b>
+- <b>Splunk</b>
+- <b>Active Directory</b>
+- <b>Security Onion</b>
 
 <h2>Environments Used </h2>
 
