@@ -33,7 +33,11 @@ Installed & configured pfsense VM adding 5 additional network adapters: <br/>
 <img src="https://i.imgur.com/t0D7l0S.png" height="80%" width="80%" alt="pfsense VM config"/>
 <br />
 <br />
-
+Fully configured pfsense and each interface that will be running: <br/>
+<img src="https://i.imgur.com/8OV04L1.png" height="80%" width="80%" alt="pfsense full config"/>
+<br />
+<br />
+ 
 </p>
 
 <!--
