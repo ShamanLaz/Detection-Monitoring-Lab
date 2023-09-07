@@ -25,8 +25,8 @@ Created a dynamic virtual homelab environment, mirroring enterprise networks. Em
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Disabled Microsoft Defender via Registry on the VM: <br/>
-<img src="https://i.imgur.com/ghtRP1H.png" height="80%" width="80%" alt="Windows Defender Disabled"/>
+Installed & configured pfsense VM adding 5 additional network adapters: <br/>
+<img src="https://i.imgur.com/t0D7l0S.png" height="80%" width="80%" alt="pfsense VM config"/>
 <br />
 <br />
 
