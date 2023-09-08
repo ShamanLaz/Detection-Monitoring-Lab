@@ -29,7 +29,7 @@ Created a dynamic virtual homelab environment, mirroring enterprise networks. Em
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Installed & configured pfsense VM adding 5 additional network adapters: <br/>
+Installed & configured pfsense VM adding 5 additional network adapters for the VM settings: <br/>
 <img src="https://i.imgur.com/t0D7l0S.png" height="80%" width="80%" alt="pfsense VM config"/>
 <br />
 <br />
@@ -37,7 +37,26 @@ Fully configured pfsense and each interface that will be running: <br/>
 <img src="https://i.imgur.com/8OV04L1.png" height="80%" width="80%" alt="pfsense full config"/>
 <br />
 <br />
- 
+ Installed & configured Security Onion adding 2 additional network adapters for the VM settings: <br/>
+<img src="https://i.imgur.com/gBgUilp.png" height="80%" width="80%" alt="SecOnion VM config"/>
+<br />
+<br />
+ Fully configured Security Onion : <br/>
+ <img src="https://i.imgur.com/jUoSud6.png" height="80%" width="80%" alt="Security Onion Full Config"/>
+ <br />
+ <br />
+ Accessed the web interface for Security Onion via Ubuntu Server/Desktop: <br/>
+ <img src="https://i.imgur.com/NzKyQbP.png" height="80%" width="80%" alt="Security Onion Web Interface"/>
+ <br />
+ <br />
+ Installed & configured Kali Linux changing the network adapter to VMnet2 on the VM settings: <br/>
+ <img src="https://i.imgur.com/IQB1tjj.png" height="80%" width="80%" alt="Kali Linux VM Settings"/>
+ <br />
+ <br />
+ Using Kali Linux accessed pfsense web interface and fully configured my interface: <br/>
+ <img src="https://i.imgur.com/Xx4j1vu.png" height="80%" width="80%" alt="pfsense Web Interface"/>
+ <br />
+ <br />
 </p>
 
 <!--
