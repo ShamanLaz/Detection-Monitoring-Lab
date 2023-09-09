@@ -49,12 +49,40 @@ Fully configured pfsense and each interface that will be running: <br/>
  <img src="https://i.imgur.com/NzKyQbP.png" height="80%" width="80%" alt="Security Onion Web Interface"/>
  <br />
  <br />
- Installed & configured Kali Linux changing the network adapter to VMnet2 on the VM settings: <br/>
+ Installed & configured Kali Linux VM settings changing the network adapter in the process to VMnet2: <br/>
  <img src="https://i.imgur.com/IQB1tjj.png" height="80%" width="80%" alt="Kali Linux VM Settings"/>
  <br />
  <br />
- Using Kali Linux accessed pfsense web interface and fully configured my interface: <br/>
+ Using Kali Linux accessed pfsense web interface and fully configured the interfaces on the network: <br/>
  <img src="https://i.imgur.com/Xx4j1vu.png" height="80%" width="80%" alt="pfsense Web Interface"/>
+ <br />
+ <br />
+ Installed & configured the Windows Server 2019 VM settings changing the network adapter in the process to VMnet3: <br/>
+ <img src="https://i.imgur.com/cTVdm4Y.png" height="80%" width="80%" alt=""/>
+ <br />
+ <br />
+ Setup an Active Directory domain using Windows Server 2019 as the domain controller: <br/>
+ <img src="https://i.imgur.com/fwA7nFx.png" height="80%" width="80%" alt="Win Server 2019"/>
+ <br />
+ <br /> 
+ Installed & configured the Windows 11 VM settings changing the network adapter in the process to VMnet3: <br/>
+ <img src="https://i.imgur.com/MOP8Oig.png" height="80%" width="80%" alt="Win11 VM Settings"/>
+ <br />
+ <br />
+ Setup and joined the Windows 11 VM to the Windows Server 2019 VM domain: <br/>
+ <img src="https://i.imgur.com/uIo6IOy.png" height="80%" width="80%" alt="Win11 Fully Configured"/>
+ <br />
+ <br />
+ Configured Ubuntu Server VM settings to add a network adapter for splunk set to VMnet6: <br/>
+ <img src="https://i.imgur.com/6Z72t84.png" height="80%" width="80%" alt="Ubuntu Server VM Settings"/>
+ <br />
+ <br />
+ Installed and configured Splunk on the Ubuntu Server VM, accessing the web interface: <br/>
+ <img src="https://i.imgur.com/qW9xw4k.png" height="80%" width="80%" alt="Splunk Web Interface"/>
+ <br />
+ <br />
+ Installed Universal Forwarder on the windows server 2019, to forward logs to the Splunk interface: <br/>
+ <img src="https://i.imgur.com/vVunzzZ.png" height="80%" width="80%" alt="Splunk Universal Forwarder"/>
  <br />
  <br />
 </p>
